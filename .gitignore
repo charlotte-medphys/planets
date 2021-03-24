@@ -1,0 +1,6 @@
+*.data
+!*.data
+
+results/
+!results/1.out
+
